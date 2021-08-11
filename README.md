@@ -1,3 +1,3 @@
-# Light and dark mode page
+# Light and dark mode
 
 Link: https://mxassanov.github.io/light-dark_mode/
